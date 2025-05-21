@@ -31,16 +31,16 @@ Aplicación móvil desarrollada en **Flutter** para la gestión de una tienda de
 ## 📸 Capturas de pantalla
 
 ### 🔐 Registro
-![Registro](https://github.com/user-attachments/assets/ad3948d7-264a-44c8-9e85-12387b527bee)
+<img src="https://github.com/user-attachments/assets/ad3948d7-264a-44c8-9e85-12387b527bee" width="300"/>
 
 ### 🔓 Inicio de sesión
-![Login](https://github.com/user-attachments/assets/17173e34-803c-45dd-8887-b29ce757b262)
+<img src="https://github.com/user-attachments/assets/17173e34-803c-45dd-8887-b29ce757b262" width="300"/>
 
 ### ❓ Recuperar contraseña (PBI-009)
-![Olvidar Contraseña](https://github.com/user-attachments/assets/cb45382c-0838-47e6-a4a0-dfdc4202445d)
+<img src="https://github.com/user-attachments/assets/cb45382c-0838-47e6-a4a0-dfdc4202445d" width="300"/>
 
 ### ➕ Agregar producto a la tienda (PBI-011)
-![Agregar producto](https://github.com/user-attachments/assets/d22ebc85-ca8e-4196-9933-76919e3bd9ab)
+<img src="https://github.com/user-attachments/assets/d22ebc85-ca8e-4196-9933-76919e3bd9ab" width="300"/>
 
 ---
 
@@ -58,4 +58,3 @@ Aplicación móvil desarrollada en **Flutter** para la gestión de una tienda de
 Este repositorio ha sido creado como parte del **examen práctico de la unidad II** del curso de Desarrollo de Aplicaciones Móviles. Contiene dos historias de usuario seleccionadas del Product Backlog, implementadas y documentadas con evidencias gráficas.
 
 ---
-
