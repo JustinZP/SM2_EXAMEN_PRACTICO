@@ -30,6 +30,13 @@ Aplicación móvil desarrollada en **Flutter** para la gestión de una tienda de
 
 ## 📸 Capturas de pantalla
 
+### 🔐 Pantalla Incio
+
+<img src="https://github.com/user-attachments/assets/728dbdd4-b234-409f-90d0-14bac408a600" width="300"/>
+
+
+
+
 ### 🔐 Registro
 <img src="https://github.com/user-attachments/assets/ad3948d7-264a-44c8-9e85-12387b527bee" width="300"/>
 
