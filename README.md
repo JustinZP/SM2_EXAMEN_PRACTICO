@@ -35,7 +35,7 @@ bre una terminal (PowerShell o terminal integrada en Visual Studio Code).
 flutter pub get
 y lo ejecutas en el main(si lo hacen en otro lugar no funcionara)
 
-<img src="https://github.com/user-attachments/assets/212c6f94-114f-4700-9394-1edb75ee647e" width="300"/>
+<img src="https://github.com/user-attachments/assets/212c6f94-114f-4700-9394-1edb75ee647e" width="700"/>
 
 
 ## 📸 Capturas de pantalla
