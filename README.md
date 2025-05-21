@@ -1,4 +1,4 @@
-# 🛍️ Tienda de Ropa - SM2 EXAMEN PRÁCTICO
+![image](https://github.com/user-attachments/assets/cba06875-937f-486b-af4e-2b5145779abc)# 🛍️ Tienda de Ropa - SM2 EXAMEN PRÁCTICO
 
 Aplicación móvil desarrollada en **Flutter** para la gestión de una tienda de ropa. Esta app permite a los usuarios **registrarse**, **iniciar sesión**, **recuperar su contraseña**, y también realizar operaciones como **agregar productos** (para el vendedor) y **visualizar el catálogo de productos** (para el cliente).
 
@@ -81,7 +81,7 @@ Aplicación móvil desarrollada en **Flutter** para la gestión de una tienda de
 
 Se utilizó **Cloudinary** para subir y almacenar imágenes de productos. La app carga la imagen a Cloudinary y guarda la URL pública en la base de datos.
 
-<img src="https://github.com/user-attachments/assets/40921782-5e49-411c-889d-581b0736f39d" width="500"/>
+<img src="https://github.com/user-attachments/assets/42b6ccf2-1173-4f49-8891-3dd23d8a36aa" width="500"/>
 
 ---
 
@@ -89,7 +89,7 @@ Se utilizó **Cloudinary** para subir y almacenar imágenes de productos. La app
 
 La base de datos utilizada es **Cloud Firestore**. Aquí se almacenan todos los datos de los productos, incluyendo nombre, categoría, precios, variantes y la URL de la imagen.
 
-<img src="https://github.com/user-attachments/assets/e49ba6b7-6215-4965-86cf-291ed7e22447" width="700"/>
+<img src="https://github.com/user-attachments/assets/de24d266-9388-41a6-b0ca-e1f843235878" width="700"/>
 
 ---
 
