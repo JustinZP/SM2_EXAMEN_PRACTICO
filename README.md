@@ -84,6 +84,18 @@ y lo ejecutas en el main(si lo hacen en otro lugar no funcionara)
 ### 📝 Formulario para agregar producto
 <img src="https://github.com/user-attachments/assets/dc483fea-0c3b-404a-a17e-eb3d7ad66fa0" width="300"/>
 
+## 🔒 Gestión de sesión y perfil (opcional)
+Además de las funcionalidades solicitadas, se implementó un menú de navegación para el vendedor, donde puede acceder a su perfil o cerrar sesión de forma segura.
+### 📋 Menú del Vendedor
+
+<img src="https://github.com/user-attachments/assets/b3709eec-1b47-4761-adbe-1bf610193f15" width="300"/>
+
+
+### 👤 Vista del Perfil del usuario logueado
+
+<img src="https://github.com/user-attachments/assets/d61cdac3-f6b2-4f35-8ea6-2c5a8ecdd680" width="300"/>
+
+
 ---
 
 ## 📦 Gestión de almacenamiento y base de datos
