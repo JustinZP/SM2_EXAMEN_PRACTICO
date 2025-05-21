@@ -101,6 +101,7 @@ La base de datos utilizada es **Cloud Firestore**. Aquí se almacenan todos los 
 - [Cloud Firestore](https://firebase.google.com/docs/firestore)  
 - [Cloudinary (almacenamiento de imágenes)](https://cloudinary.com/)  
 - [Repositorio GitHub del proyecto](https://github.com/JustinZP/SM2_EXAMEN_PRACTICO)
+- "https://github.com/JustinZP/SM2_EXAMEN_PRACTICO.git"
 
 ---
 
