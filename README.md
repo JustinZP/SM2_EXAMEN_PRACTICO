@@ -76,7 +76,8 @@ y lo ejecutas en el main(si lo hacen en otro lugar no funcionara)
 ---
 
 ### ➕ Botón para agregar producto (ícono +)
-<img src="https://github.com/user-attachments/assets/7f70b636-d7c2-4aea-8ba3-3e02f56120d8" width="300"/>
+<img src="https://github.com/user-attachments/assets/0ecb3f1d-68cc-4f5e-8f33-d176dea2443b" width="300"/>
+
 
 ---
 
