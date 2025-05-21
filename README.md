@@ -30,35 +30,33 @@ Aplicación móvil desarrollada en **Flutter** para la gestión de una tienda de
 
 ## 📸 Capturas de pantalla
 
-### 🔐 Pantalla Incio
-
+### 🏠 Pantalla de inicio
 <img src="https://github.com/user-attachments/assets/728dbdd4-b234-409f-90d0-14bac408a600" width="300"/>
 
-
-### 🔐 Registro
+### 🔐 Registro de cuenta
 <img src="https://github.com/user-attachments/assets/d8fac0bc-aca1-432a-96c1-226374ee0d1a" width="300"/>
 
 ### 🔓 Inicio de sesión
 <img src="https://github.com/user-attachments/assets/71efc635-60d7-4044-8721-85f0338890b8" width="300"/>
 
-### ❓ Recuperar contraseña (PBI-009)
+### ❓ Recuperación de contraseña (PBI-009)
 <img src="https://github.com/user-attachments/assets/91ee5a4e-a2ca-4cf5-a5be-0ac8e0d92044" width="300"/>
-### 🔓 Resultado
+
+### ✅ Confirmación de recuperación
 <img src="https://github.com/user-attachments/assets/5e584131-c888-4800-84ad-e57ed196bb18" width="300"/>
 
-### ➕ Agregar producto a la tienda (PBI-011)
-### Panel del vendedor(despues de inciar session)
-<img src="https://github.com/user-attachments/assets/23944c84-f601-4039-a0ed-5183710d86fb" width="300"/>
-### En el Nabvar tiene que ir a la seccion de productos()
-### El vendedor apreta donde esta el botom del "+" en la parte superior()
+---
 
+### 🛒 Agregar producto (PBI-011)
+
+#### 📂 Panel del vendedor (después de iniciar sesión)
+<img src="https://github.com/user-attachments/assets/23944c84-f601-4039-a0ed-5183710d86fb" width="300"/>
+
+#### 📌 En el Navbar, acceder a la sección de "Productos"
 <img src="https://github.com/user-attachments/assets/7f70b636-d7c2-4aea-8ba3-3e02f56120d8" width="300"/>
 
-### Aqui estaria formulario donde el vendedor tiene que completar para agregar productos()
+#### 📝 Formulario para agregar nuevo producto
 <img src="https://github.com/user-attachments/assets/dc483fea-0c3b-404a-a17e-eb3d7ad66fa0" width="300"/>
-
-
-
 
 ---
 
