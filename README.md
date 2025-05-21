@@ -28,6 +28,15 @@ Aplicación móvil desarrollada en **Flutter** para la gestión de una tienda de
 - Gestión de productos (Agregar y visualizar)
 
 ---
+## 🖥️ Cómo ejecutar el proyecto (Windows)
+Para poder ejecutar este proyecto en Windows, sigue estos pasos:
+bre una terminal (PowerShell o terminal integrada en Visual Studio Code).
+2. Ejecuta el siguiente comando para instalar todas las dependencias necesarias:
+flutter pub get
+y lo ejecutas en el main(si lo hacen en otro lugar no funcionara)
+
+<img src="https://github.com/user-attachments/assets/212c6f94-114f-4700-9394-1edb75ee647e" width="300"/>
+
 
 ## 📸 Capturas de pantalla
 
