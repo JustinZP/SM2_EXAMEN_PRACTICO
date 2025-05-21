@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/cba06875-937f-486b-af4e-2b5145779abc)# 🛍️ Tienda de Ropa - SM2 EXAMEN PRÁCTICO
+# 🛍️ Tienda de Ropa - SM2 EXAMEN PRÁCTICO
 
+Alumnos: Justin Zinedine Zevallos Purca
 Aplicación móvil desarrollada en **Flutter** para la gestión de una tienda de ropa. Esta app permite a los usuarios **registrarse**, **iniciar sesión**, **recuperar su contraseña**, y también realizar operaciones como **agregar productos** (para el vendedor) y **visualizar el catálogo de productos** (para el cliente).
 
 ---
